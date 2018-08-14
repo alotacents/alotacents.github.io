@@ -60,11 +60,11 @@ roles:
 
 #Education is required
 education:
-- level: Some College
+ - level: Some College
    date: 2006
    subject: Graphic Technology - Multimedia Authoring Emphasis
    school: Community College of Southern Nevada
-- level: High School Diploma
+ - level: High School Diploma
    date: 2004
    subject: 3d Animation
    school: Southern Nevada Vocational Technical Center  
