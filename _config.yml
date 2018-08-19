@@ -33,9 +33,8 @@ skills:
  - Javascript
  - Bootstrap Framework CSS
  - SCSS
- - HTML5
+ - HTML
  - LAMP
- - PHPStorm
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed:
